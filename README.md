@@ -1,5 +1,3 @@
-![KakaoTalk_20240918_111815281](https://github.com/user-attachments/assets/839ed7a2-1399-4acc-86e1-1b1dc237c671)
-
 
 2장: 일반 규칙
 
@@ -113,3 +111,5 @@ Phong 반사 모델을 통한 스페큘러 반사 추가
 다중 광원 지원
 추가적인 2차 곡선 객체 (예: 원뿔(Cone), 쌍곡면(Hyperboloid), 포물면(Paraboloid))
 범프 맵(Bump Mapping) 적용
+
+![KakaoTalk_20240918_111815281](https://github.com/user-attachments/assets/839ed7a2-1399-4acc-86e1-1b1dc237c671)
